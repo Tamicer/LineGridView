@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    - <!--  Basegridview -->
+    <color name="home_grid_divider">#ffdcdcdc</color>
+    <color name="home_grid_divider_night">#ff24262c</color>
+
+
+    <!-- 插件-->
+    <color name="sug_item_name_color">#494949</color>
+    <color name="sug_item_name_night_color">#ff777777</color>
+    <color name="sug_divider_color">#14000000</color>
+</resources>

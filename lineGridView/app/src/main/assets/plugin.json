@@ -1,0 +1,84 @@
+﻿{
+    "code": 0,
+    "msg": "ok",
+    "data": {
+        "count": 3,
+        "list": [
+            {
+                "id": 123,
+                "type": 1,
+                "packageName": "com.example.pluginhelloworld",
+                "description": "一款租房插件，海量房源等你看",
+                "pluginName": "Tamic",
+                "version": 1,
+                "mainActivity": "com.example.pluginhelloworld.WelcomeActivity",
+                "isEnabled": 0,
+                "appIcon": "http://img.hexun.com/2009-05-01/117287830.jpg",
+                "downUrl": "url"
+            },
+            {
+                "id": 1234,
+                "type": 1,
+                "packageName": "com.example.liuyongkui.pluginapk",
+                "description": "一款测试插件，test看",
+                "pluginName": "插件2",
+                "version": 1,
+                "mainActivity": "com.example.liuyongkui.pluginapk.MainActivity",
+                "isEnabled": 0,
+                "appIcon": "http://image.cnwest.com/attachement/jpg/site1/20110507/001372d8a36f0f2f4c953a.jpg",
+                "downUrl": "url"
+            },
+
+            {
+                "id": 12358,
+                "type": 3,
+                "packageName": "",
+                "description": "这是网站",
+                "pluginName": "chajian",
+                "version": 1,
+                "mainActivity": " ",
+                "isEnabled": 0,
+                "appIcon": "http://ecma.bdimg.com/lego-mat/4b69e8fef70606db27815c2b13c62497_222_222.png",
+                "downUrl": "http://www.baidu.com/"
+            },
+            {
+                "id": 1235,
+                "type": 1,
+                "packageName": "com.example.pluginhelloworld",
+                "description": "一款XX插件，",
+                "pluginName": "插件3",
+                "version": 1,
+                "mainActivity": "com.example.pluginhelloworld.WelcomeActivity",
+                "isEnabled": 0,
+                "appIcon": "http://img3.yxlady.com/yl/UploadFiles_5361/20150528/20150528050208705.jpg",
+                "downUrl": "this is url"
+            },
+
+            {
+                "id": 1236,
+                "type": 2,
+                "packageName": "com.tamic.retrofit",
+                "description": "一款网络神器",
+                "pluginName": "网路库",
+                "version": 1,
+                "mainActivity": "com.pinganfang.ananzu.LoadingActivity",
+                "isEnabled": 0,
+                "appIcon": "http://img0.imgtn.bdimg.com/it/u=517288495,4076033457&fm=21&gp=0.jpg",
+                "downUrl": "http Url"
+            },
+
+            {
+                "id": 1237,
+                "type": 3,
+                "packageName": "",
+                "description": "海量视频随你看",
+                "pluginName": "爱奇艺",
+                "version": 1,
+                "mainActivity": "com.example.pluginhelloworld.WelcomeActivity",
+                "isEnabled": 0,
+                "appIcon": "http://juxiao.mediav.com/blog/wp-content/uploads/2013/08/%E7%88%B1%E5%A5%87%E8%89%BAlogo.png",
+                "downUrl": "http://m.iqiyi.com"
+            }
+        ]
+    }
+}

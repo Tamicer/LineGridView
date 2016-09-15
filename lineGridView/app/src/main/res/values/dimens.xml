@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="home_divider_width">1px</dimen>
+    <dimen name="home_item_press_padding">0dip</dimen>
+    <dimen name="home_item_height">95dip</dimen>
+    <dimen name="home_item_space_height">2dip</dimen>
+    <dimen name="home_widget_height">155dip</dimen>
+
+    <!--插件UI相关-->
+    <dimen name="sug_item_text_top_margin">7dp</dimen>
+    <dimen name="sug_item_text_bottom_margin">10dp</dimen>
+    <dimen name="sug_item_icon_top_margin">10dp</dimen>
+    <dimen name="sug_item_name_text_size">12sp</dimen>
+    <dimen name="sug_icon_padding">22.5dp</dimen>
+    <dimen name="sug_icon_corner_radius">8dp</dimen>
+
+    <dimen name="plugin_item_height">120dip</dimen>
+</resources>
